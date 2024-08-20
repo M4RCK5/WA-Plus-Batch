@@ -20,9 +20,10 @@ This has been tested on the following versions of Worms Armageddon
  - Kick players trough the game chat (via [wkKick38](https://worms2d.info/WkKick38))
  - Prevent problems when launching multiple game instances (via [wkMultiInstance](https://worms2d.info/WkMultiInstance))
  - See the worm order (via [wkWormOrder](https://worms2d.info/WkWormOrder))
- - Pin the chat window and weapon panel (via [wkPin](https://worms2d.info/WkPin))
+ - Pin the chat window size and weapon panel (via [wkPin](https://worms2d.info/WkPin))
  - Re-arrange the weapon shortcuts (via [wkFkeyRearrange](https://worms2d.info/FkeyRearrange))
  - Modern left/right handed control layouts (via [wkRemapKeys](https://worms2d.info/WkRemapKeys))
+ - Extra Lobby slots (via [wkBigLobby](https://github.com/nizikawa-worms/wkBigLobby))
 
 This prevents issues with the game crashing, switching windows and hosting games.
 
@@ -94,6 +95,13 @@ These are optional and will not replace the default control scheme.
  - Jump 2 (L/Z)
  - Min Bounce (B)
  - Max Bounce (N)
+ - Pin Weapon Panel (Ctrl + MB2)
+
+### Chat Commands
+ - /kick playername
+ - /kick#ingame_playerlist_position
+ - /order my
+ - /oder all
 
 ### Applied Settings
 These can be set in the game menu but will be enabled launching "WA Plus.bat".
