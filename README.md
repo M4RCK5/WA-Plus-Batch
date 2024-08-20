@@ -7,7 +7,9 @@ This has been tested on the following versions of Worms Armageddon
 
 ## Install
  1 - [Download the latest version](https://github.com/M4RCK5/WA-Plus-Batch/archive/refs/heads/master.zip)
+
  2 - Move the patch contents to the game path.
+
  3 - Launch "Wa Plus.bat"
 
 ## Features
