@@ -6,7 +6,7 @@ This has been tested on the following versions of Worms Armageddon
 
 
 ## Install
-[Download the latest version](https://github.com/Carlmundo/WA-Plus/releases/latest)
+[Download the latest version](https://github.com/M4RCK5/WA-Plus-Batch/archive/refs/heads/master.zip)
 
 ## Features
 
