@@ -6,13 +6,21 @@ This has been tested on the following versions of Worms Armageddon
 
 
 ## Install
-[Download the latest version](https://github.com/M4RCK5/WA-Plus-Batch/archive/refs/heads/master.zip)
+ 1 - [Download the latest version](https://github.com/M4RCK5/WA-Plus-Batch/archive/refs/heads/master.zip)
+ 2 - Move the patch contents to the game path.
+ 3 - Launch "Wa Plus.bat"
 
 ## Features
 
 ### Mods
  - Higher resolution menus (via [SuperFrontendHD](https://worms2d.info/SuperFrontendHD))
  - Host without port forwarding (via [WormNAT2](https://worms2d.info/WormNAT2))
+ - Kick players trough the game chat (via [wkKick38](https://worms2d.info/WkKick38))
+ - Prevent problems when launching multiple game instances (via [wkMultiInstance](https://worms2d.info/WkMultiInstance))
+ - See the worm order (via [wkWormOrder](https://worms2d.info/WkWormOrder))
+ - Pin the chat window and weapon panel (via [wkPin](https://worms2d.info/WkPin))
+ - Re-arrange the weapon shortcuts (via [wkFkeyRearrange](https://worms2d.info/FkeyRearrange))
+ - Modern left/right handed control layouts (via [wkRemapKeys](https://worms2d.info/WkRemapKeys))
 
 This prevents issues with the game crashing, switching windows and hosting games.
 
@@ -76,8 +84,17 @@ Some content was removed from the digital release and has been restored with thi
 	- Kamikaze
 	- Red Cross
 
+### Added Controls
+These are optional and will not replace the default control scheme.
+ - Movement (W/A/S/D)
+ - Shoot (J/C)
+ - Jump 1 (K/X)
+ - Jump 2 (L/Z)
+ - Min Bounce (B)
+ - Max Bounce (N)
+
 ### Applied Settings
-These can be set in the game menu but will automatically apply when installed.
+These can be set in the game menu but will be enabled launching "WA Plus.bat".
  - Enabled WormKit modules
  - Direct3D 9 shader palette
  - Skip Intros
