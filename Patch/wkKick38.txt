@@ -1,0 +1,3 @@
+When ingame. Should you desire to kick a player. You enter the kick command into the ingame chat. For example:
+/kick nickname — would kick a player called nickname from the game. Replace nickname with the name of the player to kick.
+/kick3 — would kick the third player in the player list. Replace 3 with the number position in the playerlist of the player to kick. Note the lack of the space in the command.
