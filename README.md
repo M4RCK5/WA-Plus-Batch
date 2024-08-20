@@ -86,7 +86,7 @@ Some content was removed from the digital release and has been restored with thi
 	- Kamikaze
 	- Red Cross
 
-### Added Controls
+### New Controls
 These are optional and will not replace the default control scheme.
  - Movement (W/A/S/D)
  - Shoot (J/C)
