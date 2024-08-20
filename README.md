@@ -10,7 +10,7 @@ This has been tested on the following versions of Worms Armageddon
 
  2 - Move the patch contents to the game path.
 
- 3 - Launch "Wa Plus.bat"
+ 3 - Launch "WA Plus.bat"
 
 ## Features
 
