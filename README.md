@@ -101,7 +101,7 @@ These are optional and will not replace the default control scheme.
  - /kick playername
  - /kick#ingame_playerlist_position
  - /order my
- - /oder all
+ - /order all
 
 ### Applied Settings
 These can be set in the game menu but will be enabled launching "WA Plus.bat".
