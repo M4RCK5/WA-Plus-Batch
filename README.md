@@ -104,6 +104,16 @@ These are optional and will not replace the default control scheme.
  - /order my
  - /order all
 
+### Lobby Commands
+ - /mission
+ - /mission attempts #ammount
+ - /mission reset
+ - /terrains
+ - /terrains list
+ - /terrains query
+ - /terrains rescan
+ - /scale
+
 ### Applied Settings
 These can be set in the game menu but will be enabled launching "WA Plus.bat".
  - Enabled WormKit modules
