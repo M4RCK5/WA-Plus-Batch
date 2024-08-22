@@ -23,7 +23,7 @@ This has been tested on the following versions of Worms Armageddon
  - Pin the chat window size and weapon panel (via [wkPin](https://worms2d.info/WkPin))
  - Re-arrange the weapon shortcuts (via [wkFkeyRearrange](https://worms2d.info/FkeyRearrange))
  - Modern left/right handed control layouts (via [wkRemapKeys](https://worms2d.info/WkRemapKeys))
- - Extra Lobby slots (via [wkBigLobby](https://github.com/nizikawa-worms/wkBigLobby))
+ - Extra spectator slots (via [wkBigLobby](https://github.com/nizikawa-worms/wkBigLobby))
 
 This prevents issues with the game crashing, switching windows and hosting games.
 
