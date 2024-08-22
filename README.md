@@ -89,7 +89,7 @@ Some content was removed from the digital release and has been restored with thi
 	- Red Cross
 
 ### New Controls
-These are optional and will not replace the default control scheme.
+These are optional to use and will not replace the default control scheme.
  - Movement (W/A/S/D)
  - Shoot (J/C)
  - Jump 1 (K/X)
