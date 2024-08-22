@@ -24,7 +24,7 @@ This has been tested on the following versions of Worms Armageddon
  - Re-arrange the weapon shortcuts (via [wkFkeyRearrange](https://worms2d.info/FkeyRearrange))
  - Modern left/right handed control layouts (via [wkRemapKeys](https://worms2d.info/WkRemapKeys))
  - Extra spectator slots (via [wkBigLobby](https://github.com/nizikawa-worms/wkBigLobby))
- - Custom terrain/map size/missions support and map sync between host and client (via [wkTerrainSync](https://worms2d.info/WkTerrainSync))
+ - Custom terrain/map size/missions support + map sync between host and client (via [wkTerrainSync](https://worms2d.info/WkTerrainSync))
 
 This prevents issues with the game crashing, switching windows and hosting games.
 
