@@ -21,7 +21,10 @@ This has been tested on the following versions of Worms Armageddon
  - See the worm order (via [wkWormOrder](https://worms2d.info/WkWormOrder))
  - Pin the chat window size/weapon panel (via [wkPin](https://worms2d.info/WkPin))
  - Modern left/right handed control layouts (via [wkRemapKeys](https://worms2d.info/WkRemapKeys))
+ - Allows the downloading of maps randomly from the WMDB site from within the editor based on schemes and map size (via [wkWMDB](https://worms2d.info/WkWMDB))
  - Custom terrain/map size/missions support + map sync between host/client (via [wkTerrainSync](https://worms2d.info/WkTerrainSync))
+ - Allows maps to have both destructible and indestructible parts (via [wkIndiMask](https://worms2d.info/WkIndiMask))
+ - Real-time online multiplayer for racing schemes + improvements to game sync (via [wkRealTime](https://worms2d.info/WkRealTime))
 
 This prevents issues with the game crashing, switching windows and hosting games.
 
