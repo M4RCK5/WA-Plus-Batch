@@ -18,7 +18,6 @@ This has been tested on the following versions of Worms Armageddon
  - Higher resolution menus (via [SuperFrontendHD](https://worms2d.info/SuperFrontendHD))
  - Host without port forwarding (via [WormNAT2](https://worms2d.info/WormNAT2))
  - Kick players trough the game chat (via [wkKick38](https://worms2d.info/WkKick38))
- - Prevent problems when launching multiple game instances (via [wkMultiInstance](https://worms2d.info/WkMultiInstance))
  - See the worm order (via [wkWormOrder](https://worms2d.info/WkWormOrder))
  - Pin the chat window size/weapon panel (via [wkPin](https://worms2d.info/WkPin))
  - Option to re-arrange the weapon shortcuts (via [wkFkeyRearrange](https://worms2d.info/FkeyRearrange))
