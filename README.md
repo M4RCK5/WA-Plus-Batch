@@ -21,7 +21,6 @@ This has been tested on the following versions of Worms Armageddon
  - See the worm order (via [wkWormOrder](https://worms2d.info/WkWormOrder))
  - Pin the chat window size/weapon panel (via [wkPin](https://worms2d.info/WkPin))
  - Modern left/right handed control layouts (via [wkRemapKeys](https://worms2d.info/WkRemapKeys))
- - Extra spectator slots (via [wkBigLobby](https://github.com/nizikawa-worms/wkBigLobby))
  - Custom terrain/map size/missions support + map sync between host/client (via [wkTerrainSync](https://worms2d.info/WkTerrainSync))
 
 This prevents issues with the game crashing, switching windows and hosting games.
