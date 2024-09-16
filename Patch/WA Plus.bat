@@ -13,6 +13,7 @@ reg add "HKCU\Software\Team17SoftwareLTD\WormsArmageddon\Options" /v "Vsync" /t 
 reg add "HKCU\Software\Team17SoftwareLTD\WormsArmageddon\Options" /v "AssistedVsync" /t "reg_dword" /d "0" /f >nul 2>&1
 reg add "HKCU\Software\Team17SoftwareLTD\WormsArmageddon\Options" /v "WindowedMode" /t "reg_dword" /d "1" /f >nul 2>&1
 reg add "HKCU\Software\Team17SoftwareLTD\WormsArmageddon\Options" /v "LocalProgressOverride" /t "reg_dword" /d "1878586903" /f >nul 2>&1
+reg add "HKCU\Software\Team17SoftwareLTD\WormsArmageddon\Options" /v "UseCommunityServerList" /t "reg_dword" /d "1" /f >nul 2>&1
 echo.
 echo ----WA Plus----
 echo.
