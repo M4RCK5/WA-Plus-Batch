@@ -1,5 +1,5 @@
 #define AppName "Worms Armageddon Plus"
-#define AppVersion "1.1.4"
+#define AppVersion "1.1.5"
 #define AppProcess "WA.exe"
 #define Game "Worms Armageddon"
 #define RegPath "Software\Team17SoftwareLTD\WormsArmageddon"
@@ -31,6 +31,14 @@ PrivilegesRequired=admin
 Type: files; Name: "{app}\wkD3D9Wnd.dll"
 Type: files; Name: "{app}\wkD3D9Wnd.ini"
 Type: files; Name: "{app}\wkD3D9Wnd_readme.txt"
+;Remove old map files from <=1.1.4
+Type: files; Name: "{app}\User\SavedLevels\Worms World Party - Forts\*"
+Type: files; Name: "{app}\User\SavedLevels\Good Ship Armageddon.PNG"
+Type: files; Name: "{app}\User\SavedLevels\I Rule The Rooster.PNG"
+Type: files; Name: "{app}\User\SavedLevels\Rainforest Ruckus.PNG"
+Type: files; Name: "{app}\User\SavedLevels\Windymill On High.PNG"
+Type: files; Name: "{app}\User\SavedLevels\I Rule The Rooster.PNG"
+Type: files; Name: "{app}\User\SavedLevels\I Rule The Rooster.PNG"
 
 [Files]
 ;Patch files
