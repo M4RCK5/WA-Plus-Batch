@@ -34,19 +34,17 @@ This prevents issues with the game crashing, switching windows and hosting games
 
 These features could also be unlocked by achieving progress and gold medals in single player.
 
-### Additional Maps from Worms World Party
-Adds the following maps that were selectable in the semi-sequel:
- - 10 Forts mode maps*
- - Back And Forth
- - Fruit Bastilles
- - Good Ship Armageddon
- - I Rule The Rooster
- - Jumble Sail
- - Radical Rescue
- - Rainforest Ruckus
- - Steeple Jack
- - Take Out The Trash
- - Windymill On High
+### Additional Maps from other Worms titles
+- Worms 2 Demo
+- Online Worms
+- Worms World Party
+	- 10 main maps
+	- Forts*
+	- Missions
+	- Time Attack
+	- Training
+	- User Missions
+- Worms World Party Aqua
 
 To use these maps when creating a game:
 1. Click the current map in "Terrain" to make sure it shows a custom map.
@@ -60,7 +58,12 @@ To use these maps when creating a game:
 Adds soundbanks from other classic Worms releases:
  - Worms: The Directors Cut, named as "Classic - Director's Cut"
  - Worms 2: Danish & Rednecks
- - Worms World Party: Danish-2, Dutch-2, French-2, Italian-2, Spanish-2, Swedish-2, Polish-2 (Poland CD exclusive)
+ - Online Worms: Japanese & Korean
+ - Worms Armageddon Czech release: Czech
+ - Worms World Party: Danish-2, Dutch-2, French-2, Italian-2, Spanish-2, Swedish-2
+ 	- Regional exclusives: Korean-2, Polish-2
+ - Worms World Party Aqua: 6 Korean Soundbanks
+ - Portuguese (Portugal) by Ana Martins (GoRobotnikGo), directed by Rúben Fernandes (rubinho146)
  
 ### Restored Content
 Some content was removed from the digital release and has been restored with this patch.
