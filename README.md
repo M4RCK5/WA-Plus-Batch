@@ -6,13 +6,23 @@ This has been tested on the following versions of Worms Armageddon
 
 
 ## Install
-[Download the latest version](https://github.com/Carlmundo/WA-Plus/releases/latest)
+ 1 - [Download the latest version](https://github.com/M4RCK5/WA-Plus-Batch/archive/refs/heads/master.zip)
+
+ 2 - Move the patch contents to the game path
+
+ 3 - Launch "WA Plus.bat"
 
 ## Features
 
 ### Mods
  - Higher resolution menus (via [SuperFrontendHD](https://worms2d.info/SuperFrontendHD))
  - Host without port forwarding (via [WormNAT2](https://worms2d.info/WormNAT2))
+ - Kick players trough the game chat (via [wkKick38](https://worms2d.info/WkKick38))
+ - Modern left/right handed control layouts (via [wkRemapKeys](https://worms2d.info/WkRemapKeys))
+ - Download random maps from the WMDB site from within the editor based on schemes and map size (via [wkWMDB](https://worms2d.info/WkWMDB))
+ - Custom terrain/map size/missions support + map sync between host/client (via [wkTerrainSync](https://worms2d.info/WkTerrainSync))
+ - Allow maps to have both destructible and indestructible parts (via [wkIndiMask](https://worms2d.info/WkIndiMask))
+ - Real-time online multiplayer for racing schemes + improvements to game sync (via [wkRealTime](https://worms2d.info/WkRealTime))
 
 This prevents issues with the game crashing, switching windows and hosting games.
 
@@ -34,17 +44,19 @@ This prevents issues with the game crashing, switching windows and hosting games
 
 These features could also be unlocked by achieving progress and gold medals in single player.
 
-### Additional Maps from other Worms titles
-- Worms 2 Demo
-- Online Worms
-- Worms World Party
-	- 10 main maps
-	- Forts*
-	- Missions
-	- Time Attack
-	- Training
-	- User Missions
-- Worms World Party Aqua
+### Additional Maps from Worms World Party
+Adds the following maps that were selectable in the semi-sequel:
+ - 10 Forts mode maps*
+ - Back And Forth
+ - Fruit Bastilles
+ - Good Ship Armageddon
+ - I Rule The Rooster
+ - Jumble Sail
+ - Radical Rescue
+ - Rainforest Ruckus
+ - Steeple Jack
+ - Take Out The Trash
+ - Windymill On High
 
 To use these maps when creating a game:
 1. Click the current map in "Terrain" to make sure it shows a custom map.
@@ -58,12 +70,7 @@ To use these maps when creating a game:
 Adds soundbanks from other classic Worms releases:
  - Worms: The Directors Cut, named as "Classic - Director's Cut"
  - Worms 2: Danish & Rednecks
- - Online Worms: Japanese & Korean
- - Worms Armageddon Czech release: Czech
- - Worms World Party: Danish-2, Dutch-2, French-2, Italian-2, Spanish-2, Swedish-2
- 	- Regional exclusives: Korean-2, Polish-2
- - Worms World Party Aqua: 6 Korean Soundbanks
- - Portuguese (Portugal) by Ana Martins (GoRobotnikGo), directed by Rúben Fernandes (rubinho146)
+ - Worms World Party: Danish-2, Dutch-2, French-2, Italian-2, Spanish-2, Swedish-2, Polish-2 (Poland CD exclusive)
  
 ### Restored Content
 Some content was removed from the digital release and has been restored with this patch.
@@ -79,8 +86,31 @@ Some content was removed from the digital release and has been restored with thi
 	- Kamikaze
 	- Red Cross
 
+### New Controls
+These are optional to use and will not replace the default control scheme.
+ - Movement (W/A/S/D)
+ - Shoot (J/C)
+ - Jump 1 (K/X)
+ - Jump 2 (L/Z)
+ - Min Bounce (B)
+ - Max Bounce (N)
+
+### Chat Commands
+ - /kick playername
+ - /kick#ingame_playerlist_position
+
+### Lobby Commands
+ - /mission
+ - /mission attempts #ammount
+ - /mission reset
+ - /terrains
+ - /terrains list
+ - /terrains query
+ - /terrains rescan
+ - /scale
+
 ### Applied Settings
-These can be set in the game menu but will automatically apply when installed.
+These can be set in the game menu but will be enabled launching "WA Plus.bat".
  - Enabled WormKit modules
  - Direct3D 9 shader palette
  - Skip Intros
